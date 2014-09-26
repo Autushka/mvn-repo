@@ -7,6 +7,10 @@
     <version>0.0.1</version>
   </parent>
   <artifactId>ProjectX2013_03_23_JPA</artifactId>
+<<<<<<< Upstream, based on branch 'master' of https://github.com/Autushka/mvn-repo.git
+=======
+  <version>0.0.1</version>
+>>>>>>> 1216cb8 Projectx version 0.0.1
   <packaging>jar</packaging>
   
   <properties>

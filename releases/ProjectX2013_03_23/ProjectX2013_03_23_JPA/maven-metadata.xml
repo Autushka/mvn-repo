@@ -7,6 +7,10 @@
     <versions>
       <version>0.0.1</version>
     </versions>
+<<<<<<< Upstream, based on branch 'master' of https://github.com/Autushka/mvn-repo.git
     <lastUpdated>20140926005805</lastUpdated>
+=======
+    <lastUpdated>20140926011010</lastUpdated>
+>>>>>>> 1216cb8 Projectx version 0.0.1
   </versioning>
 </metadata>
