@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>ProjectX2013_03_23</groupId>
+  <artifactId>ProjectX2013_03_23_JPA</artifactId>
+  <version>0.0.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140927.235312</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140927235312</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.2-20140927.235312-1</value>
+        <updated>20140927235312</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.2-20140927.235312-1</value>
+        <updated>20140927235312</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
